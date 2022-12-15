@@ -15,6 +15,7 @@ namespace pipelines_dotnet_core.Controllers
             return View();
         }
 
+
         public IActionResult Privacy()
         {
             return View();
